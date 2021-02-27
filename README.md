@@ -6,7 +6,7 @@ Escrever um Readme que contenha:
 3 tamanhos de títulos;  
 Listas feitas por diferentes tipos de caracteres;  
 Tabela;  
-1 imagenm linkada;  
+1 imagenm linkada;  [x]
 1 imagem referenciada (ela deve estar dentro do repositório em questão para ser
 referenciada);  
 Diferentes tipos de formatação de texto;  [x]
@@ -21,7 +21,7 @@ repositório aqui;
 
 Este jogo foi desenvolvido como **Projeto Final do Módulo 1** do curso vamo AI, parceria entre o _iFood_ e a _Resilia Educação_. O jogo acontece em um cenário pós-apocalíptico :zombie: e sua missão é descobrir a melhor maneira de coletar os itens embelezadores para encarar esse mundo terrível :lipstick:. 
 
-![Apocalipse](https://github.com/csuwaki/JogoResilia/blob/main/imagens/apocalipse.png)
+[![Apocalipse]](https://github.com/csuwaki/JogoResilia/blob/main/imagens/apocalipse.png)
     (https://github.com/csuwaki/JogoResilia/blob/main/imagens/apocalipse.png)
 
 O jogo encontra-se em fase de desenvolvimento, a seguir um trecho da introdução:
