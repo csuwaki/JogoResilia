@@ -3,7 +3,7 @@
 
 
 Escrever um Readme que contenha:  
-3 tamanhos de títulos;  
+3 tamanhos de títulos;  [x]
 Listas feitas por diferentes tipos de caracteres;  
 Tabela;  
 1 imagenm linkada;  [x]
@@ -38,3 +38,16 @@ Bem-vindo (a), sobrevivente!")
     return nome  
 ```  
 
+
+### Locais que poderão ser explorados no jogo:
+
+* Poça radioativa
+- Pilha de animais mortos
++ Pilha de ossos
+
+### Objetos que poderão ser encontrados dentro de cada local:
+
+| Poça radioativa | Pilha de ossos | Pilha de animais mortos |
+| --------------- | ---------------- | ----------------------- |
+| Água radioativa | Ossos | Pilha de animais mortos |
+| Chinelo | Garrafa | Martelo |
