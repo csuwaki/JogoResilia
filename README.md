@@ -1,5 +1,5 @@
 
-[https://github.com/csuwaki/JogoResilia/blob/main/imagens/Jogo_Resilia.png](https://github.com/csuwaki/JogoResilia/blob/main/imagens/Jogo_Resilia.png "Imagem de capa do jogo")
+![https://github.com/csuwaki/JogoResilia/blob/main/imagens/Jogo_Resilia.png](https://github.com/csuwaki/JogoResilia/blob/main/imagens/Jogo_Resilia.png "Imagem de capa do jogo")
 
 # Projeto final - Módulo 1
 ## Jogo: XXX
