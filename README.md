@@ -44,6 +44,6 @@ return nome
 
 | **Poça radioativa** | **Pilha de ossos** | **Pilha de animais mortos** |
 | --------------- | ---------------- | ----------------------- |
-| Água radioativa | Ossos | Pilha de animais mortos |
+| Água radioativa | Ossos | Pele de raposa em decomposição |
 | Chinelo | Garrafa | Martelo |  
 
