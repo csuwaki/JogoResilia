@@ -35,6 +35,6 @@ Atenção! Para coletar os itens encontrados você precisa de outras ferramentas
 Bem-vindo (a), sobrevivente!")
 
     nome = input("Como posso te chamar? ")
-    return nome 
+    return nome  
 ```  
 
