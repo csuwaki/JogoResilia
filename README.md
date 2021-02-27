@@ -32,7 +32,7 @@ return nome
 --- 
 ### Personagens disponíveis para iniciar o jogo:
 
----
+
 
 ### Locais que poderão ser explorados no jogo:
 
