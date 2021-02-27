@@ -1,12 +1,5 @@
-# JogoResilia
 
-
-1 imagem referenciada (ela deve estar dentro do repositório em questão para ser
-referenciada);  
-Pedaço de código em destaque. [x] 
-Você deve subir esse readme para o Github e enviar o link do
-repositório aqui;
-
+[https://github.com/csuwaki/JogoResilia/blob/main/imagens/Jogo_Resilia.png](https://github.com/csuwaki/JogoResilia/blob/main/imagens/Jogo_Resilia.png "Imagem de capa do jogo")
 
 # Projeto final - Módulo 1
 ## Jogo: XXX
@@ -42,4 +35,6 @@ O jogo encontra-se em fase de desenvolvimento, a seguir um trecho da introduçã
 | --------------- | ---------------- | ----------------------- |
 | Água radioativa | Ossos | Pilha de animais mortos |
 | Chinelo | Garrafa | Martelo |  
+
+
 
