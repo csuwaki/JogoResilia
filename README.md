@@ -18,7 +18,7 @@ Este jogo foi desenvolvido como **Projeto Final do Módulo 1** do curso vamo AI,
 O jogo encontra-se em fase de desenvolvimento, a seguir um trecho da introdução:
 
 
-```def intro():
+    ```def intro():
     print("Você sobreviveu a um apocalipse nuclear e agora precisa lutar pela sua sobrevivência no mundo pós-apocalíptico. Mas antes, as prioridades. \n\
 Você percebeu que não tem nenhum item de beleza na sua bolsa Golce & Dabanna para encarar esse mundo cruel e deseja encontrá-los \n\
 para arrasar na balada Plutônio Night Club. \n\
@@ -27,7 +27,7 @@ Bem-vindo (a), sobrevivente!")
 
     nome = input("Como posso te chamar? ")
     return nome  
-```  
+    ```  
 
 
 ### Locais que poderão ser explorados no jogo:
