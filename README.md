@@ -47,7 +47,7 @@ Bem-vindo (a), sobrevivente!")
 
 ### Objetos que poderão ser encontrados dentro de cada local:
 
-| Poça radioativa | Pilha de ossos | Pilha de animais mortos |
+| **Poça radioativa | Pilha de ossos | Pilha de animais mortos** |
 | --------------- | ---------------- | ----------------------- |
 | Água radioativa | Ossos | Pilha de animais mortos |
 | Chinelo | Garrafa | Martelo |
