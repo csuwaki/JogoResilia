@@ -19,10 +19,10 @@ O jogo encontra-se em fase de desenvolvimento, a seguir um trecho da introduçã
 
 ```python
 def intro():
-print("Você sobreviveu a um apocalipse nuclear e agora precisa lutar pela sua sobrevivência no mundo pós-apocalíptico. Mas antes, as prioridades. 
-Você percebeu que não tem nenhum item de beleza na sua bolsa Golce & Dabanna para encarar esse mundo cruel e deseja encontrá-los 
-para arrasar na balada Plutônio Night Club. 
-Atenção! Para coletar os itens encontrados você precisa de outras ferramentas, então procure bem. 
+print("Você sobreviveu a um apocalipse nuclear e agora precisa lutar pela sua sobrevivência no mundo pós-apocalíptico. Mas antes, as prioridades. \n\
+Você percebeu que não tem nenhum item de beleza na sua bolsa Golce & Dabanna para encarar esse mundo cruel e deseja encontrá-los \n\
+para arrasar na balada Plutônio Night Club. \n\
+Atenção! Para coletar os itens encontrados você precisa de outras ferramentas, então procure bem. \n\
 Bem-vindo (a), sobrevivente! Boa sorte!")
 
 nome = input("Como posso te chamar? ")
