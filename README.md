@@ -1,16 +1,8 @@
 # JogoResilia
 
 
-
-Escrever um Readme que contenha:  
-3 tamanhos de títulos;  [x]
-Listas feitas por diferentes tipos de caracteres;  
-Tabela;  
-1 imagenm linkada;  [x]
 1 imagem referenciada (ela deve estar dentro do repositório em questão para ser
 referenciada);  
-Diferentes tipos de formatação de texto;  [x]
-Emojis; [X]  
 Pedaço de código em destaque. [x] 
 Você deve subir esse readme para o Github e enviar o link do
 repositório aqui;
@@ -51,3 +43,11 @@ Bem-vindo (a), sobrevivente!")
 | --------------- | ---------------- | ----------------------- |
 | Água radioativa | Ossos | Pilha de animais mortos |
 | Chinelo | Garrafa | Martelo |
+
+
+    // login.js
+
+    const username = 'gatinho99';
+    const password = 'secret';
+
+    login(username, password);
