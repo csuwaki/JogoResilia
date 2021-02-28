@@ -1,4 +1,8 @@
-def intro():
+#Projeto final do Módulo 1 - Introdução ao Python do curso vamo AI, parceria entre o iFood e a Resilia.
+#Aluna: Caroline H. Suwaki
+
+#Adicionando saída com cor no terminal
+def intro(): 
     print("Você sobreviveu a um apocalipse nuclear e agora precisa lutar pela sobrevivência no mundo pós-apocalíptico. Mas antes, prioridades. \n\
 Você percebeu que não tem nenhum item de beleza na sua bolsa Golce & Dabanna para encarar esse mundo cruel e deseja encontrá-los \n\
 para arrasar na balada Plutônio Night Club. \n\
@@ -8,13 +12,13 @@ Bem-vindo (a), sobrevivente! \n")
     nome = input("Como posso te chamar? ")
     print(f"Olá, {nome.title()}.")
     
-    print(('\033[47;1;30m' + """
+    print(('\033[47;1;30m' + """ 
 
   _                                            _                                                              
  |_)  _  ._ _       o ._   _|  _     _.  _    |_ _. |_      |  _   _  _     /\  ._   _   _  _. | o ._   _  _  
  |_) (/_ | | |   \/ | | | (_| (_)   (_| (_)   | (_| |_) |_| | (_) _> (_)   /--\ |_) (_) (_ (_| | | |_) _> (/_ 
                                                                                 |                  |          
-\n""" + '\033[0;0m'))
+\n""" + '\033[0;0m')) 
 
 def primeira_escolha():
     primeira_escolha = int(input("\n\
@@ -47,6 +51,7 @@ Você chegou à pilha de animais mortos e avista a diva Bion-C com um lindo casa
     2. Guardar a garrafa e explorar a Poça Radioativa. \n"))
     return quarta_escolha
 
+#código apenas utilizando if/else. Sem while, pois ainda não foi dado no curso.
 def perdeu():
 
     print('\033[0;1;31m' + """
@@ -73,12 +78,12 @@ def venceu_casaco():
     
 def venceu_batom():
     print('\033[0;1;33m' + """
-    Buonasera Gatuxa! Você fez um lindo batom neon coletando a água radioativa com a garrafa e vai mostrar sua beleza radiante por aí! Parabéns! Você venceu!")
+    Buonasera Gatuxa! Você fez um lindo batom neon coletando a água radioativa com a garrafa e vai mostrar sua beleza radiante por aí! Parabéns! Você venceu!
     \n""" + '\033[0;0m')
 
 def venceu_base():
     print('\033[0;1;33m' + """
-    Buonasera Gatuxa! Você fez uma linda base com os ossos que você triturou com o martelo e vai mostrar sua beleza radiante por aí! Parabéns! Você venceu!")
+    Buonasera Gatuxa! Você fez uma linda base com os ossos que você triturou com o martelo e vai mostrar sua beleza radiante por aí! Parabéns! Você venceu!
     \n""" + '\033[0;0m')
     
 def programa_principal():
