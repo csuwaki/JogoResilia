@@ -1,3 +1,22 @@
+def intro():
+    print("Você sobreviveu a um apocalipse nuclear e agora precisa lutar pela sobrevivência no mundo pós-apocalíptico. Mas antes, prioridades. \n\
+Você percebeu que não tem nenhum item de beleza na sua bolsa Golce & Dabanna para encarar esse mundo cruel e deseja encontrá-los \n\
+para arrasar na balada Plutônio Night Club. \n\
+Atenção! Para coletar os itens encontrados você precisa de ferramentas que podem estar em outros locais, então procure bem. Boa sorte! \n\
+Bem-vindo (a), sobrevivente!")
+
+    nome = input("Como posso te chamar? ")
+    print(f"Olá, {nome.title()}.")
+    
+    print(('\033[47;1;30m' + """
+
+  _                                            _                                                              
+ |_)  _  ._ _       o ._   _|  _     _.  _    |_ _. |_      |  _   _  _     /\  ._   _   _  _. | o ._   _  _  
+ |_) (/_ | | |   \/ | | | (_| (_)   (_| (_)   | (_| |_) |_| | (_) _> (_)   /--\ |_) (_) (_ (_| | | |_) _> (/_ 
+                                                                                |                  |          
+
+\n""" + '\033[0;0m'))
+
 def primeira_escolha():
     primeira_escolha = int(input("Isso! É sua chance de fazer um batom neon incrível! Quando você começa a se aproximar da poça radioativa, você vê a onça Carol com C matando sua sede \n\
 calmamente. Ela parece amigável. Próximo a ela, você enxerga um martelo. O que você faz? \n\
@@ -22,7 +41,10 @@ def quarta_escolha():
     return quarta_escolha
 
 def perdeu():
-    print("Escolha terrível! Não soube procurar ou não soube aproveitar as ferramentas. No que você estava pensando? Você perdeu! ")
+
+    print('\033[0;1;31m' + """
+    Escolha terrível! Como você vai coletar esse item sem ferramentas? Da próxima vez, procure melhor! Você perdeu!
+    \n""" + '\033[0;0m')
     perdeu = input("Deseja jogar novamente? Responda sim ou não. ")
     if perdeu.title() == "Sim":
         programa_principal()
@@ -38,24 +60,21 @@ def escolha_invalida():
         print("Fim de jogo!")
 
 def venceu_casaco():
-    print("Buonasera Gatuxa! Você fez um lindo casaco de peles e vai mostrar sua beleza radiante por aí! Parabéns! Você venceu!")
-
+    print('\033[0;1;33m' + """
+    Buonasera Gatuxa! Você fez um lindo casaco de peles matando as baratas com o chinelo e vai mostrar sua beleza radiante por aí! Parabéns! Você venceu!
+    \n""" + '\033[0;0m')
+    
 def venceu_batom():
-    print("Buonasera Gatuxa! Você fez um lindo batom neon e vai mostrar sua beleza radiante por aí! Parabéns! Você venceu!")
+    print('\033[0;1;33m' + """
+    Buonasera Gatuxa! Você fez um lindo batom neon coletando a água com a garrafa e vai mostrar sua beleza radiante por aí! Parabéns! Você venceu!")
+    \n""" + '\033[0;0m')
 
 def venceu_base():
-    print("Buonasera Gatuxa! Você fez uma linda base com os ossos e vai mostrar sua beleza radiante por aí! Parabéns! Você venceu!")
-
+    print('\033[0;1;33m' + """
+    Buonasera Gatuxa! Você fez uma linda base com os ossos que você triturou com o martelo e vai mostrar sua beleza radiante por aí! Parabéns! Você venceu!")
+    \n""" + '\033[0;0m')
+    
 def programa_principal():
-    print("Você sobreviveu a um apocalipse nuclear e agora precisa lutar pela sobrevivência no mundo pós-apocalíptico. Mas antes, prioridades. \n\
-Você percebeu que não tem nenhum item de beleza na sua bolsa Golce & Dabanna para encarar esse mundo cruel e deseja encontrá-los \n\
-para arrasar na balada Plutônio Night Club. \n\
-Atenção! Para coletar os itens encontrados você precisa de ferramentas que podem estar em outros locais, então procure bem. Boa sorte! \n\
-Bem-vindo (a), sobrevivente!")
-
-    nome = input("Como posso te chamar? ")
-    print(f"Olá, {nome.title()}.")
-
     local = input(f"Você decidiu sair do seu bunker para explorar a região. À sua direita há uma 1. poça radioativa; à esquerda, uma 2. pilha de ossos; e à frente uma 3. pilha de animais mortos. \n\
 Para onde você deseja ir? ")
 
@@ -141,6 +160,5 @@ O que você faz? \n\
         escolha_invalida()
         
         
-
+intro()
 programa_principal()
-
