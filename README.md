@@ -42,7 +42,7 @@ return nome
 
 * Poça radioativa;
 - Pilha de animais mortos;
-+ Pilha de ossos;
++ Pilha de ossos.
 
 ### Objetos que poderão ser encontrados dentro de cada local:
 
