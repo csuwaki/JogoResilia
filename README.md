@@ -47,7 +47,7 @@ return nome
 ### Objetos que poderão ser encontrados dentro de cada local:
 
 | **Poça radioativa** | **Pilha de ossos** | **Pilha de animais mortos** |
-| --------------- | ---------------- | ----------------------- |
+| :---------------: | :----------------: | :-----------------------: |
 | Água radioativa | Ossos | Pele de raposa em decomposição |
 | Chinelo | Garrafa | Martelo |  
 
