@@ -1,5 +1,5 @@
 
-![https://github.com/csuwaki/JogoResilia/blob/main/imagens/capajogo_resilia.png](https://github.com/csuwaki/JogoResilia/blob/main/imagens/capajogo_resilia.png "Imagem de capa do jogo")
+![https://github.com/csuwaki/JogoResilia/blob/main/imagens/capa_jogo_resilia.png](https://github.com/csuwaki/JogoResilia/blob/main/imagens/capa_jogo_resilia.png "Imagem de capa do jogo")
 
 ---
 
