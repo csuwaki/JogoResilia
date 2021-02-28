@@ -1,10 +1,10 @@
 
-![https://github.com/csuwaki/JogoResilia/blob/main/imagens/Jogo_Resilia.png](https://github.com/csuwaki/JogoResilia/blob/main/imagens/Jogo_Resilia.png "Imagem de capa do jogo")
+![https://github.com/csuwaki/JogoResilia/blob/main/imagens/capajogoresilia.png](https://github.com/csuwaki/JogoResilia/blob/main/imagens/capajogoresilia.png "Imagem de capa do jogo")
 
 ---
 
 # Projeto final - Módulo 1
-## Jogo: XXX
+# FABULOSO APOCALIPSE
 
 Este jogo foi desenvolvido como **Projeto Final do Módulo 1** do curso vamo AI, parceria entre o _iFood_ e a _Resilia Educação_. O jogo acontece em um cenário pós-apocalíptico :radioactive: e a missão do usuário é descobrir a melhor maneira de coletar os itens embelezadores :lipstick: para encarar esse mundo terrível. O usuário poderá navegar entre os cenários e coletar os itens pra fazer aquela produção _bafo_ por aí. Mas atenção, coletar os itens sem as ferramentas adequadas pode ser fatal. 
 
