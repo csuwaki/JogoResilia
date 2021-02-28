@@ -30,15 +30,19 @@ return nome
 ```  
 
 --- 
-### Personagens disponíveis para iniciar o jogo:
+### Personagens:
+* O próprio usuário;
+- A onça Carol com C;
++ A zombietuber Quim Cardaxa;
+* A diva Bion-C.
 
 
 
 ### Locais que poderão ser explorados no jogo:
 
-* Poça radioativa
-- Pilha de animais mortos
-+ Pilha de ossos
+* Poça radioativa;
+- Pilha de animais mortos;
++ Pilha de ossos;
 
 ### Objetos que poderão ser encontrados dentro de cada local:
 
