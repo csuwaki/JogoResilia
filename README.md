@@ -30,13 +30,18 @@ return nome
 ```  
 
 --- 
+
+### Tema
+- Apocalipse
+
+### Título
+* Fabuloso Apocalipse
+
 ### Personagens:
 * O próprio usuário;
 - A onça Carol com C;
 + A zombietuber Quim Cardaxa;
 * A diva Bion-C.
-
-
 
 ### Locais que poderão ser explorados no jogo:
 
@@ -47,7 +52,7 @@ return nome
 ### Objetos que poderão ser encontrados dentro de cada local:
 
 | **Poça radioativa** | **Pilha de ossos** | **Pilha de animais mortos** |
-| --------------- | ---------------- | ----------------------- |
+| :---------------: | :----------------: | :-----------------------: |
 | Água radioativa | Ossos | Pele de raposa em decomposição |
 | Chinelo | Garrafa | Martelo |  
 
