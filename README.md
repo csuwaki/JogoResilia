@@ -6,7 +6,7 @@
 # Projeto final - Módulo 1
 ## Jogo: XXX
 
-Este jogo foi desenvolvido como **Projeto Final do Módulo 1** do curso vamo AI, parceria entre o _iFood_ e a _Resilia Educação_. O jogo acontece em um cenário pós-apocalíptico :radioactive: e sua missão é descobrir a melhor maneira de coletar os itens embelezadores para encarar esse mundo terrível :lipstick:. Você poderá navegar entre os cenários e coletar os itens pra fazer aquela produção _bafo_ por aí. Mas atenção, coletar os itens sem as ferramentas adequadas pode ser fatal. Boa sorte!
+Este jogo foi desenvolvido como **Projeto Final do Módulo 1** do curso vamo AI, parceria entre o _iFood_ e a _Resilia Educação_. O jogo acontece em um cenário pós-apocalíptico :radioactive: e sua missão é descobrir a melhor maneira de coletar os itens embelezadores para encarar esse mundo terrível :lipstick:. Você poderá navegar entre os cenários e coletar os itens pra fazer aquela produção _bafo_ por aí. Mas atenção, coletar os itens sem as ferramentas adequadas pode ser fatal. 
 
 ---
 
