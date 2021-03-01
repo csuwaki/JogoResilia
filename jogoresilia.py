@@ -1,12 +1,19 @@
-#Projeto final do Módulo 1 - Introdução ao Python do curso vamo AI, parceria entre o iFood e a Resilia.
-#Aluna: Caroline H. Suwaki
+'''Projeto final do Módulo 1 - Introdução ao Python do curso vamo AI, parceria entre o iFood e a Resilia.
+Autora: Caroline H. Suwaki
 
-#Adicionando saída com cor no terminal
+Descrição: O jogo acontece em um cenário pós-apocalíptico e a missão do usuário é descobrir a melhor maneira de coletar os itens de beleza.
+O usuário poderá navegar entre os cenários (pilha de ossos, poça radioativa e pilha de animais mortos) para coletar os itens disponíveis
+(água radiaoativa e martelo; pele de raposa em decomposição e chinelo; ossos e garrafa). Para isso, deverá escolher inicialmente 
+para qual local gostaria de ir, e a seguir tomar decisões de coletar os itens ou explorar o próximo local. O usuário deverá ficar atento se possui
+a ferramenta adequada para coletar o item escolhido.
+'''
+
+
 def intro(): 
     print("Você sobreviveu a um apocalipse nuclear e agora precisa lutar pela sobrevivência no mundo pós-apocalíptico. Mas antes, prioridades. \n\
 Você percebeu que não tem nenhum item de beleza na sua bolsa Golce & Dabanna para encarar esse mundo cruel e deseja encontrá-los \n\
-para arrasar na balada Plutônio Night Club. \n\
-Atenção! Para coletar os itens encontrados você precisa de ferramentas que podem estar em outros locais, então procure bem. Boa sorte! \n\
+para arrasar na balada Plutônio Night Club. Para isso, você precisa navegar entre os locais próximos ao seu bunker e utilizar os itens para produzir itens \n\
+de maquiagem. Durante o caminho, você pode encontrar alguns personagens que te darão dicas, mas atenção! Para coletar os itens encontrados você precisa de ferramentas que podem estar em outros locais, então procure bem. Boa sorte! \n\
 Bem-vindo (a), sobrevivente! \n")
 
     nome = input("Como posso te chamar? ")
@@ -51,11 +58,9 @@ Você chegou à pilha de animais mortos e avista a diva Bion-C com um lindo casa
     2. Guardar a garrafa e explorar a Poça Radioativa. \n"))
     return quarta_escolha
 
-#código apenas utilizando if/else. Sem while, pois ainda não foi dado no curso.
 def perdeu():
-
     print('\033[0;1;31m' + """
-    Escolha terrível! Como você vai coletar esse item sem ferramentas? Da próxima vez, procure melhor! Você perdeu!
+    Escolha terrível! Você não soube explorar as ferramentas ou não as possui. Da próxima vez, pense melhor! Você perdeu!
     \n""" + '\033[0;0m')
     perdeu = input("Deseja jogar novamente? Responda sim ou não. \n")
     if perdeu.title() == "Sim":
@@ -180,7 +185,6 @@ O que você faz? \n\
 
     else:
         escolha_invalida()
-        
-        
+         
 intro()
 programa_principal()
