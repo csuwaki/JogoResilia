@@ -80,16 +80,34 @@ def venceu_casaco():
     print('\033[0;1;33m' + """
     Buonasera Gatuxa! Você fez um lindo casaco de peles de raposa em decomposição após matar as baratas com o chinelo e vai mostrar sua beleza radiante por aí! Parabéns! Você venceu!
     \n""" + '\033[0;0m')
+    ganhou = input("Deseja jogar novamente? Responda sim ou não. \n")
+    if ganhou.title() == "Sim":
+        programa_principal()
+    else:
+        print("Fim de jogo!")
+    return ganhou
     
 def venceu_batom():
     print('\033[0;1;33m' + """
     Buonasera Gatuxa! Você fez um lindo batom neon coletando a água radioativa com a garrafa e vai mostrar sua beleza radiante por aí! Parabéns! Você venceu!
     \n""" + '\033[0;0m')
+    ganhou = input("Deseja jogar novamente? Responda sim ou não. \n")
+    if ganhou.title() == "Sim":
+        programa_principal()
+    else:
+        print("Fim de jogo!")
+    return ganhou
 
 def venceu_base():
     print('\033[0;1;33m' + """
     Buonasera Gatuxa! Você fez uma linda base com os ossos que você triturou com o martelo e vai mostrar sua beleza radiante por aí! Parabéns! Você venceu!
     \n""" + '\033[0;0m')
+    ganhou = input("Deseja jogar novamente? Responda sim ou não. \n")
+    if ganhou.title() == "Sim":
+        programa_principal()
+    else:
+        print("Fim de jogo!")
+    return ganhou
     
 def programa_principal():
     local = input(f"Você decidiu sair do seu bunker para explorar a região. À sua direita há uma 1. poça radioativa; à esquerda, uma 2. pilha de ossos; e à frente uma 3. pilha de animais mortos. \n\
