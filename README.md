@@ -37,8 +37,12 @@ return nome
 ### Título
 * Fabuloso Apocalipse
 
-### Personagens:
-* O próprio usuário;
+### Personagens para iniciar o jogo:
+* Cardi C.;
+* Cora Aventureira;
+* Jaque Chan.
+* 
+### Personagens durante a narrativa:
 - A onça Carol com C;
 + A zombietuber Quim Cardaxa;
 * A diva Bion-C.
