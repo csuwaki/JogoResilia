@@ -3,7 +3,9 @@
 
 ---
 
-# Projeto final - Módulo 1
+## Projeto final - Módulo 1
+
+---
 
 <div align="center">
 
