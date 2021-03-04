@@ -24,7 +24,7 @@ Este jogo foi desenvolvido como **Projeto Final do Módulo 1 - Introdução ao P
 * Cardi C.;
 * Cora Aventureira;
 * Jaque Chan.
-* 
+
 ### Personagens durante a narrativa:
 - A onça Carol com C;
 + A zombietuber Quim Cardaxa;
