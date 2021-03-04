@@ -17,6 +17,13 @@ Este jogo foi desenvolvido como **Projeto Final do Módulo 1 - Introdução ao P
 ### Tema
 - Apocalipse
 
+### Equipe
+* Caroline Suwaki
+* Felipe Batista
+* Ludmila Leal
+* Ramon Brito
+* Victor Silva
+
 ### Título
 * Fabuloso Apocalipse
 
