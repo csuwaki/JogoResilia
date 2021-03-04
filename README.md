@@ -13,11 +13,7 @@
 
 </div>
 
-<p style="text-align: justify;">
-
-Este jogo foi desenvolvido como **Projeto Final do Módulo 1 - Introdução ao Python** do curso vamo AI, parceria entre o _iFood_ e a _Resilia Educação_. O jogo acontece em um cenário pós-apocalíptico :radioactive: e a missão do usuário é descobrir a melhor maneira de coletar os itens embelezadores para encarar esse mundo terrível. O usuário poderá navegar entre os cenários e coletar os itens pra fazer aquela produção _bafo_ por aí. Mas atenção, coletar os itens sem as ferramentas adequadas pode ser fatal.
-
-</p>
+<p style="text-align: justify;">Este jogo foi desenvolvido como **Projeto Final do Módulo 1 - Introdução ao Python** do curso vamo AI, parceria entre o _iFood_ e a _Resilia Educação_. O jogo acontece em um cenário pós-apocalíptico :radioactive: e a missão do usuário é descobrir a melhor maneira de coletar os itens embelezadores para encarar esse mundo terrível. O usuário poderá navegar entre os cenários e coletar os itens pra fazer aquela produção _bafo_ por aí. Mas atenção, coletar os itens sem as ferramentas adequadas pode ser fatal.</p>
 
 
 ---
