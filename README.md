@@ -15,7 +15,7 @@
 
 
 
-Este jogo foi desenvolvido como **Projeto Final do Módulo 1 - Introdução ao Python** do curso vamo AI, parceria entre o _iFood_ e a _Resilia Educação_. O mundo foi devastado por uma guerra nuclear, e para encarar esse terrível mundo pós-apocalíptico a missão do usuário é descobrir a melhor maneira de coletar os itens embelezadores disponíveis durante o jogo. O usuário poderá navegar entre os cenários e coletar os itens pra fazer aquela produção _bafo_ por aí. Mas atenção, coletar os itens sem as ferramentas adequadas pode ser fatal.
+Este jogo foi desenvolvido como **Projeto Final do Módulo 1 - Introdução ao Python** do curso vamo AI, parceria entre o _iFood_ e a _Resilia Educação_. O mundo foi devastado por uma guerra nuclear, e para encarar esse terrível mundo pós-apocalíptico a missão do usuário é descobrir a melhor maneira de coletar os itens embelezadores disponíveis durante o jogo. O usuário poderá navegar entre os cenários e coletar os itens pra fazer aquela produção _bafo_ para ir na balada Plutônio Night Club. Mas atenção, coletar os itens sem as ferramentas adequadas pode ser fatal.
 
 
 ---
